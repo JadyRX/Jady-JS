@@ -1,0 +1,67 @@
+‼️Leia-Me‼️
+
+Olá estudante, meu nome é luis e sou aluno do terceiro ano do ensino medio, e estou aqui para  te auxiliar na sua trilha de estudos.
+
+Bom nosso projeto de hoje será o ping-pong de programação, mas antes de começarmos irei passar um recado importante Caso não tenha entendido, procure um professor responsável na plataforma alura e peça para que o ajude.
+
+OBS: Caso tenha ficado confuso, estarei disponibilizando um video/tutorial dos passos a passos na pasta mas qualquer duvida peça auxilio ao professor. 
+
+
+Comandos utilizados nesse bloco
+CTRL + A = seleciona tudo da pagina 
+CTRL + C = copia tudo da pagina
+CTRL + V = Cola tudo que estava selecionado 
+
+Primeiro passo: Criação De Conta
+Bom antes de começarmos a programar, precisamos criar nossa conta no site p5 js web, e para isso seu professor ira te auxiliar na criação da sua conta mostrando qual site é, mas deixarei o link abaixo: https://editor.p5js.org/login
+
+Segundo passo: Acessar os Arquivos 
+No nosso segundo passo iremos acessar a pasta que deixei nesse bloco, basicamente esses arquivos servem para que o nosso jogo funcione perfeitamente do jeito que é.
+
+Terceiro passo: Começar a programar
+Após a instalação dos arquivos da pasta,agora iremos adicionar todos os arquivos baixados no site p5 js web, e para isso teremos que ir no canto esquerdo da tela num botão com o símbolo ( >) após clicar nele, ira se abrir em baixo alguns arquivos com o nome por exemplo “sketch.js” mas ainda não iremos mexer nesses arquivos,  vai ter o nome “arquivo de esboço” e do lado terá um +;
+Iremos clicar nele, dps que clicarmos ira se abrir 3 opções:
+	⁃	Criar pasta
+	⁃	Criar arquivo
+	⁃	Carregar arquivos 
+
+Iremos clicar na terceira opção “carregar arquivos” e iremos colocar os seguintes arquivos que baixamos no passo dois
+E eles são:
+	⁃	raquetada.mp3
+	⁃	Ponto.mp3
+	⁃	Trilha.mp3
+	⁃	P5.collide2d.js
+
+
+Quarto passo: Alterações
+
+Apos subirmos esses arquivos no p5 js web, iremos mexer em alguns arquivos que estarão la, para isso volte na pasta onde estão os arquivos que baixamos no passo dois, e iremos clicar duas vezes em cima do arquivo “ arquivo index.txt” 
+Após ele carregar irá aparecer um codigo dentro, iremos selecionar  os arquivos com os comandos CTRL + A 
+Apos isso o codigo ira ficar azul, e vamos dar o comando CTRL + C para copiar.
+
+Agr vamos no site do p5 js web, e vamos entrar no arquivo index.html; e vamos baixar um pouco a tela e vamos na linha de codigo 13, amos até o final dela que é no carácter > e vamos apertar a tecla ENTER  a linha debaixo ira ficar em branco e será onde iremos colocar o codigo copiado do arquivo index que baixamos.
+
+Apos termos feito essa alteração, teremos que fazer mais uma alteração, que será no arquivo sketch.js,  novamente iremos voltar para a pasta onde baixamos os arquivos do jogo, mas agr iremos clicar duas vezes em cima do arquivo “ Código sketch.txt” .
+Após entrar vamos copiar tudo novamente com os comandos CRTL + A  
+Dps iremos dar o comando para copiar que é CRTL + C  ; agora vamos para o site do p5 js web e vamos no arquivo “sketch.js” . 
+Após entrarmos vamos apagar tudo que tem dentro do codigo desse arquivo do site, dps que apagarmos vamos dar o comando de colar  que é o CRTL + V 
+
+
+Praticamente nosso jogo esta completo
+Agora vamos testar-lo para ver se não houve algum bug ou algo do tipo, caso não tenha acontecido nenhum bug, iremos para o ultimo passo
+
+
+Quinto passo: Compartilhamento 
+Agora que finalizamos nosso jogo na plataforma p5 js, iremos salvar para podermos enviar na plataforma alura!!
+Para isso vamos ir na parte superior do site terá um botão chamado “arquivo”
+Após passar o mouse em cima dele abrira umas opções abaixo, mas iremos ir na opção “salvar”  após isso iremos no botão “compartilhar” ira abrir três opções 
+
+	⁃	Código 
+	⁃	Tela Cheia
+	⁃	Editor
+
+Essas três opções terão links abaixo para copiar, mas o link que iremos utilizar no alura é o do meio “tela cheia”  iremos copiar o link e após isso iremos na plataforma do alura e iremos compartilhar na unidade 10 o nosso link.
+
+
+Espero ter ajudado, qualquer duvida chame o professor responsável em passar as plataformas alura, ou chamar o aluno luis do terceiro.!
+
